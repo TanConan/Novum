@@ -6,4 +6,3 @@ public class Constants {
 	public static final String TE_STRING = "Test";
 	
 }
-//keine Ehre
